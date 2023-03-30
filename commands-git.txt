@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Mar 30 14:00:50 2023
+
+@author: aubru
+"""
+
+git clone <URL-du-repository> 
+git add <nom-du-fichier-modifié>
+git commit -m "message de validation"
+git push <nom-du-remote> <nom-de-la-branche>
