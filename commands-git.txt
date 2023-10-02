@@ -2,3 +2,4 @@ git clone <URL-du-repository>
 git add <nom-du-fichier-modifié>
 git commit -m "message de validation"
 git push <nom-du-remote> <nom-de-la-branche>
+git pull [<options>] [<dépôt> [<spécification-de-référence>…​]]
